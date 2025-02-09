@@ -1,0 +1,9 @@
+package ex_java_programs;
+
+public class Lab044_ForHello5 {
+    public static void main(String[] args) {
+        for(int i=0;i<5;i++){
+            System.out.println("Hello");
+        }
+    }
+}
