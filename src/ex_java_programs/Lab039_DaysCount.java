@@ -1,4 +1,4 @@
-package ex_ciq_java_programs;
+package ex_java_programs;
 
 import java.util.Scanner;
 
